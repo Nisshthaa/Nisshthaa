@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <span style="color:#f06292;">Nishtha Sharma</span> 👋</h1>
+<h1 align="center">Hi there, I'm <span style="color:#f06292;">Nishtha</span> 👋</h1>
 <p align="center">🌟 MCA student | Full-Stack Dev | Hackathon Enthusiast | AI Explorer 🌟</p>
 
 ---
